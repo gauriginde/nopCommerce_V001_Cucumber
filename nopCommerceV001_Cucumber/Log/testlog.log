@@ -1,0 +1,554 @@
+2019-11-17 12:53:55,202 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:53:55,234 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:54:00,444 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:54:00,652 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:54:06,839 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 12:54:09,270 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 12:54:09,271 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 12:54:15,048 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:54:15,050 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:54:20,156 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:54:20,396 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:54:23,204 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 12:54:28,603 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 12:54:34,373 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:54:34,377 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:54:39,438 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:54:39,665 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:54:43,273 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 12:54:48,673 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 12:54:54,425 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:54:54,427 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:54:59,470 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:54:59,707 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:55:01,658 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 12:55:06,987 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:55:06,990 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:55:12,187 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:55:12,391 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:55:15,013 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 12:55:15,989 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 12:55:19,027 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 12:55:19,030 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 12:55:24,830 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 12:55:24,833 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 12:55:29,594 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 12:55:29,843 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 12:55:30,288 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 13:26:18,774 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,807 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:26:18,835 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,838 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:26:18,852 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,854 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:26:18,869 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,872 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:26:18,886 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,889 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:26:18,900 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:26:18,902 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:46,949 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:46,981 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:47,018 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:47,021 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:47,039 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:47,041 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:47,061 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:47,062 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:47,080 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:47,082 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:27:47,094 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:27:47,095 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,306 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,425 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,452 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,456 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,468 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,473 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,488 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,492 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,504 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,508 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:30:31,514 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:30:31,518 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:09,797 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:09,917 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:09,947 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:09,952 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:09,965 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:09,971 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:09,983 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:09,987 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:09,999 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:10,003 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:32:10,010 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:32:10,012 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,548 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,682 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,713 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,719 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,733 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,738 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,750 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,753 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,764 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,767 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:33:32,774 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:33:32,777 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,699 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,829 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,854 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,860 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,877 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,881 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,893 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,897 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,908 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,913 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 13:34:44,921 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 13:34:44,923 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:12:53,994 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:12:54,104 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:12:59,196 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:12:59,382 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:13:07,083 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:13:07,086 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:13:12,129 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:13:12,317 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:13:19,390 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:13:19,399 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:13:24,505 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:13:24,718 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:13:32,142 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:13:32,146 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:13:36,875 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:13:37,088 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:13:38,791 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:13:39,735 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:13:42,754 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:13:42,754 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:13:48,574 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:13:48,580 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:13:53,542 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:13:53,766 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:14:27,170 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:14:27,295 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:14:32,434 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:14:32,644 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:14:36,561 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 14:14:38,396 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 14:14:38,397 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:14:44,172 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:14:44,181 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:14:48,966 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:14:49,282 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:14:52,387 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 14:14:57,790 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:15:03,573 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:15:03,581 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:15:08,726 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:15:08,937 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:15:12,120 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 14:15:17,483 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:15:23,183 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:15:23,187 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:15:27,942 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:15:28,141 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:15:30,017 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:15:31,217 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:15:34,249 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:15:34,251 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:15:39,998 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:15:40,001 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:15:45,101 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:15:45,317 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:15:51,450 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:15:52,610 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:15:55,639 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:15:55,642 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:16:01,400 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:16:01,409 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:16:06,516 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:16:06,701 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:16:07,219 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 14:32:46,217 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:32:46,310 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:32:51,522 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:32:51,734 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:33:00,110 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 14:33:02,264 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 14:33:02,265 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:33:08,039 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:33:08,048 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:33:13,070 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:33:13,298 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:33:16,688 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 14:33:22,072 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:33:27,816 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:33:27,820 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:33:32,869 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:33:33,075 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:33:35,512 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:33:36,289 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:33:39,327 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:33:39,330 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:34:10,057 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:34:10,145 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:34:14,987 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:34:15,204 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:34:22,380 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:34:22,389 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:34:27,138 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:34:27,458 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:34:29,363 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:34:30,176 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:34:33,210 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:34:33,211 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:34:38,959 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:34:38,964 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:34:58,969 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:34:59,061 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:35:03,858 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:35:04,108 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:35:11,538 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:35:11,548 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:35:16,659 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:35:16,865 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:35:19,096 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:35:20,072 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:35:23,106 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:35:23,109 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:35:28,896 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:35:28,906 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:35:33,993 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:35:34,207 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:35:34,742 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 14:38:09,760 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:38:09,850 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:38:14,961 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:38:15,174 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:38:24,599 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 14:38:29,892 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:38:35,634 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:38:35,638 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:38:40,749 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:38:41,007 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:38:43,077 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:38:43,844 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:38:46,884 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:38:46,886 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:38:52,665 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:38:52,674 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:38:57,786 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:38:58,065 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:38:58,656 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 14:43:30,365 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:43:30,457 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:43:35,540 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:43:35,746 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:43:45,920 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 14:43:47,931 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 14:43:47,931 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:43:53,712 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:43:53,721 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:43:58,827 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:43:59,037 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:44:07,033 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 14:44:12,458 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:44:18,207 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:44:18,210 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:44:23,262 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:44:23,466 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:44:31,656 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 14:44:37,046 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:44:42,814 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:44:42,822 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:44:47,731 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:44:47,954 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:44:50,314 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:44:51,045 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:44:54,081 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:44:54,083 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:44:59,926 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:44:59,934 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:45:04,860 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:45:05,166 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:45:07,498 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:45:08,347 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 14:45:11,383 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 14:45:11,385 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 14:45:17,171 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 14:45:17,179 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 14:45:22,316 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 14:45:22,603 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 14:45:23,231 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 16:46:59,480 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:46:59,585 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:47:04,753 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:47:05,027 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:47:27,850 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 16:47:29,888 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 16:47:29,889 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:47:35,638 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:47:35,641 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:47:40,519 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:47:40,809 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:47:48,903 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 16:47:54,286 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:48:00,045 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:48:00,050 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:48:05,170 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:48:05,458 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:48:13,637 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 16:48:19,012 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:48:24,756 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:48:24,758 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:48:29,793 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:48:29,999 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:48:32,186 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:48:33,330 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 16:48:36,362 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:48:36,364 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:48:42,122 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:48:42,126 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:48:47,209 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:48:47,454 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:48:49,671 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:48:55,138 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:48:55,146 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:49:00,234 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:49:00,449 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:49:01,019 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 16:56:35,607 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:56:35,720 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:56:40,873 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:56:41,214 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:56:50,234 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 16:56:52,169 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 16:56:52,171 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:56:57,899 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:56:57,907 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:57:03,025 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:57:03,279 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:57:11,322 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 16:57:16,679 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:57:22,417 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:57:22,424 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:57:27,509 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:57:27,747 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:57:35,772 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 16:57:41,138 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:57:46,924 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:57:46,934 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:57:52,072 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:57:52,287 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:57:54,501 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:57:55,268 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 16:57:58,301 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:57:58,303 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:58:04,065 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:58:04,077 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:58:08,786 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:58:08,993 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:58:10,870 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:58:11,895 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 16:58:14,929 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 16:58:14,931 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 16:58:20,666 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 16:58:20,679 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 16:58:25,831 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 16:58:26,023 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 16:58:26,572 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 17:04:00,929 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:04:01,040 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:04:06,186 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:04:06,424 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:04:15,407 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 17:04:17,422 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 17:04:17,423 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:04:23,179 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:04:23,183 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:04:27,876 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:04:28,122 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:04:35,893 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 17:04:41,267 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:04:47,042 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:04:47,051 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:04:52,094 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:04:52,303 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:05:00,427 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 17:05:05,764 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:05:11,541 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:05:11,549 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:05:16,643 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:05:16,857 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:05:18,930 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:05:19,680 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 17:05:22,715 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:05:22,718 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:05:28,489 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:05:28,493 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:05:33,534 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:05:33,737 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:05:35,765 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:05:41,082 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:05:41,100 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:05:46,188 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:05:46,469 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:05:51,142 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 17:25:30,356 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:25:30,456 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:25:36,607 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:25:36,837 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:25:45,453 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 17:25:46,979 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 17:25:46,980 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:25:52,601 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:25:52,605 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:25:57,713 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:25:57,892 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:26:05,376 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 17:26:10,733 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:26:16,419 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:26:16,425 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:26:21,398 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:26:21,575 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:26:29,309 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 17:26:34,530 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:26:40,080 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:26:40,082 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:26:45,537 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:26:45,808 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:26:47,690 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:26:52,851 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:26:52,860 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:26:57,575 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:26:57,741 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:26:59,539 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:27:04,645 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:27:04,659 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:27:09,637 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:27:09,783 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:27:10,295 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 17:27:31,324 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:27:31,494 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:27:36,612 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:27:36,799 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:27:45,464 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 17:27:47,361 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 17:27:47,362 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:27:53,086 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:27:53,097 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:27:58,198 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:27:58,364 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:28:06,558 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 17:28:11,980 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:28:17,681 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:28:17,691 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:28:22,784 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:28:22,960 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:28:31,148 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 17:28:36,456 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:28:42,145 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:28:42,153 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:28:46,901 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:28:47,080 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:28:48,718 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:28:53,866 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:28:53,875 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:28:58,592 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:28:58,812 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:29:00,442 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:29:05,584 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:29:05,590 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:29:10,621 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:29:10,885 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:29:11,231 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 17:32:49,107 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:32:49,207 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:33:14,272 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:33:33,389 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:33:33,394 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:33:38,827 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:33:39,271 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:33:50,391 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 17:33:55,769 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:34:46,961 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:34:46,966 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:34:52,106 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:34:52,306 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:34:52,845 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 17:41:01,575 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:41:01,698 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:41:06,842 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:41:07,060 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:41:15,939 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 17:41:17,699 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 17:41:17,700 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:41:23,492 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:41:23,495 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:41:29,119 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:41:29,314 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:41:37,570 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 17:41:42,993 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:41:48,880 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:41:48,885 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:41:54,033 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:41:54,334 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:42:02,758 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 17:42:08,045 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:42:13,896 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:42:13,901 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:42:19,140 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:42:19,518 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:42:22,609 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:42:23,532 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 17:42:26,553 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:42:26,554 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 17:42:32,433 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:42:32,441 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:42:37,715 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:42:37,939 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:42:40,223 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 17:42:45,542 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 17:42:45,547 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 17:42:50,679 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 17:42:50,952 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 17:42:51,611 - nopCommerce -INFO - ******************Login Failed***************
+2019-11-17 18:07:00,927 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:07:01,025 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:07:06,643 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:07:06,944 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:07:29,918 - nopCommerce -INFO - ******************Adding new customer information***************
+2019-11-17 18:07:32,010 - nopCommerce -INFO - *****************New customer addition successful***************
+2019-11-17 18:07:32,011 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 18:07:37,661 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:07:37,672 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:07:42,558 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:07:42,719 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:07:51,733 - nopCommerce -INFO - ******************Searching customer by emailid***************
+2019-11-17 18:07:57,054 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 18:08:02,707 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:08:02,716 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:08:07,733 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:08:07,930 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:08:15,827 - nopCommerce -INFO - ******************Searching customer by first and last name***************
+2019-11-17 18:08:21,206 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 18:08:26,892 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:08:26,905 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:08:31,781 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:08:31,948 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:08:33,673 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 18:08:34,755 - nopCommerce -INFO - ******************Logged out***************
+2019-11-17 18:08:37,791 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 18:08:37,794 - nopCommerce -INFO - ******************QUIT Browser***************
+2019-11-17 18:08:43,526 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:08:43,534 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:08:48,573 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:08:48,755 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:08:50,642 - nopCommerce -INFO - ******************Login Passed***************
+2019-11-17 18:08:55,748 - nopCommerce -INFO - ******************Launching Browser***************
+2019-11-17 18:08:55,763 - nopCommerce -INFO - ******************Opening URL***************
+2019-11-17 18:09:00,539 - nopCommerce -INFO - ******************Providing username and password***************
+2019-11-17 18:09:00,796 - nopCommerce -INFO - ******************Clicked Login***************
+2019-11-17 18:09:01,231 - nopCommerce -INFO - ******************Login Failed***************
